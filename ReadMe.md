@@ -1,4 +1,4 @@
-limb-macos
+limd-macos
 ==========
 
 This repo provides pre-built binaries for macOS of the libimobiledevice tools.
